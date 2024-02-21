@@ -7,6 +7,11 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Button Content="Перейти на страницу 1" HorizontalAlignment="Left" Margin="10,217,0,0" VerticalAlignment="Top" Height="83" Width="161"/>
+        <Button Content="Перейти на страницу 2" HorizontalAlignment="Left" Margin="209,217,0,0" VerticalAlignment="Top" Height="83" Width="161"/>
+        <Button Content="Перейти на страницу 3" HorizontalAlignment="Left" Margin="430,217,0,0" VerticalAlignment="Top" Height="83" Width="161"/>
+        <Button Content="Перейти на страницу 4" HorizontalAlignment="Left" Margin="629,217,0,0" VerticalAlignment="Top" Height="83" Width="161"/>
+        <Label Content="Главная страница" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" FontSize="48"/>
+
     </Grid>
 </Window>
